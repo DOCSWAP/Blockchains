@@ -27,19 +27,44 @@ Router:
 Factory:
 0x9904C6d92Ed455292F88b58665Bc95b7019343C2
 
+HBIT-11119:
+Router:
+0x9904C6d92Ed455292F88b58665Bc95b7019343C2
+Factory:
+0x0f667E1c023c54EF88f9a55B16be601a423318fF
+
+MATIC-137:
+Router:
+0x9904C6d92Ed455292F88b58665Bc95b7019343C2
+Factory:
+0x0f667E1c023c54EF88f9a55B16be601a423318fF
+
+CORE-1116:
+Router:
+0x9904C6d92Ed455292F88b58665Bc95b7019343C2
+Factory:
+0x0f667E1c023c54EF88f9a55B16be601a423318fF
+
+AVAX-43114:
+Router:
+0x9904C6d92Ed455292F88b58665Bc95b7019343C2
+Factory:
+0x0f667E1c023c54EF88f9a55B16be601a423318fF
+
+ARBITRUM-42161:
+Router:
+0x9904C6d92Ed455292F88b58665Bc95b7019343C2
+Factory:
+0x0f667E1c023c54EF88f9a55B16be601a423318fF
+
+SHIBARIUM-109:
+Router:
+0x9904C6d92Ed455292F88b58665Bc95b7019343C2
+Factory:
+0x0f667E1c023c54EF88f9a55B16be601a423318fF
+
 # List Your Project Blockchain
-Add your projects to DOCSWAP with this straightforward process:
-Fast Track Listing Steps:
-For Blockchain:
-
-Send 100 DOCSWAP Tokens to our Official Wallet Address [https://bscscan.com/address/0x08988eCfD35b13222167CECeDeB8f3A3f47555F6].
-Email official@dexoncrypto.com with payment details and your Blockchain information.
-Estimated Max Listing Time: 48 Hours.
+Add your projects to DOCSWAP, Compile for in Official Website: https://dexoncrypto.com
 
 
-For Tokens:
-
-Send 25 DOCSWAP Tokens to our Official Wallet Address [https://bscscan.com/address/0x08988eCfD35b13222167CECeDeB8f3A3f47555F6].
-Email official@dexoncrypto.com with payment details, Token Contract, Logo, and supported Blockchain.
-Estimated Listing Time: Less than 24 hours.
-Elevate your project's presence on DOCSWAP quickly and efficiently! 🚀🌐 #DOCSWAP #ProjectListing
+🚀🌐 #DOCSWAP
