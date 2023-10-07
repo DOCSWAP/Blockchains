@@ -63,6 +63,12 @@ Router:
 Factory:
 0x0f667E1c023c54EF88f9a55B16be601a423318fF
 
+OP-10:
+Router:
+0x9904C6d92Ed455292F88b58665Bc95b7019343C2
+Factory:
+0x0f667E1c023c54EF88f9a55B16be601a423318fF
+
 # List Your Project Blockchain
 Add your projects to DOCSWAP, Compile for in Official Website: https://dexoncrypto.com
 
